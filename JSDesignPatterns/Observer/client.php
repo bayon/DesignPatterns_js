@@ -18,6 +18,7 @@ include_once ("Observer.php");
 			obj[key] = extension[key];
 		}
 	}
+
 	// References to our DOM elements
 	var controlCheckbox = document.getElementById("mainCheckbox"), addBtn = document.getElementById("addNewObserver"), container = document.getElementById("observersContainer");
 	// Concrete Subject

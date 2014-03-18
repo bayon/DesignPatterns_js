@@ -2,6 +2,7 @@
 include_once ("Factory.php");
 ?>
 <script>
+alert("DesignPattern: Factory");
 	// Create an instance of our factory that makes cars
 	var carFactory = new Factory();
 	var car = carFactory.createVehicle({

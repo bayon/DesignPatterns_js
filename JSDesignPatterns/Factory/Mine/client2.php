@@ -2,6 +2,7 @@
 include_once ("Factory.php");
 ?>
 <script>
+alert("DesignPattern: Factory");
 	//extend Factory
 	function TruckFactory() {
 
