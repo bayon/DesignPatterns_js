@@ -5,6 +5,11 @@ include_once ("Observer.php");
  * Since Javascript doesn't exactly have sub-class objects, 
  * prototype is a useful workaround to make a "base class" object 
  * of certain functions that act as objects.
+ * 
+ * 
+ * 
+ *    L E F T   O F F   H E R E   (trying to understand the "Observer" example and Object.prototype.
+ * 
  */
 ?>
 

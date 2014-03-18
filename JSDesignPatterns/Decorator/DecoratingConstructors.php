@@ -1,5 +1,6 @@
 <?php  // php has to be called at least once ?>
 <script>
+alert("foof");
 	// A vehicle constructor
 	function vehicle(vehicleType) {
 
